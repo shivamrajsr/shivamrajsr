@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivamrajsr
 - 👀 I’m interested in working with different softwares and products.
-- 🌱 I’m currently learning ios/Android app development in Flutter.
+- 🌱 I’m currently doing ios/Android/web app development in Flutter.
 - 📫 You can reach me on email id- shivam703368@gmail.com
 
 <!---
